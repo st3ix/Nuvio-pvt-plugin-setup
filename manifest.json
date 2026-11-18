@@ -12,7 +12,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/brellor.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/brellor.js",
       "enabled": true,
       "formats": [
         "m3u8"
@@ -32,7 +32,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/bdix-cf.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/bdix-cf.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -56,7 +56,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/bdix-df.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/bdix-df.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -80,7 +80,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/durnel.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/durnel.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -106,7 +106,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/esvyl.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/esvyl.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -127,7 +127,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/evyrith.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/evyrith.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -148,7 +148,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/fastrion.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/fastrion.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -170,7 +170,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/fendrix.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/fendrix.js",
       "enabled": true,
       "formats": [
         "m3u8"
@@ -190,7 +190,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/bdix-fh.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/bdix-fh.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -214,7 +214,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/fjoral.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/fjoral.js",
       "enabled": true,
       "formats": [
         "m3u8",
@@ -238,7 +238,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/fyron.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/fyron.js",
       "enabled": true,
       "formats": [
         "m3u8",
@@ -262,7 +262,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/gravix.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/gravix.js",
       "enabled": true,
       "formats": [
         "m3u8",
@@ -287,7 +287,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/haylox.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/haylox.js",
       "enabled": true,
       "formats": [
         "m3u8"
@@ -307,7 +307,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/hexion.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/hexion.js",
       "enabled": true,
       "formats": [
         "mkv",
@@ -331,7 +331,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/ilvyrel.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/ilvyrel.js",
       "enabled": true,
       "formats": [
         "mkv",
@@ -356,7 +356,7 @@
       "supportedTypes": [
         "movie"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/jhaeros.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/jhaeros.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -379,7 +379,7 @@
       "supportedTypes": [
         "movie"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/jyniq.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/jyniq.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -400,7 +400,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/karnis.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/karnis.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -425,7 +425,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/kethrax.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/kethrax.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -446,7 +446,7 @@
       "supportedTypes": [
         "movie"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/kryxalia.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/kryxalia.js",
       "enabled": true,
       "formats": [
         "m3u8"
@@ -466,7 +466,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/lenyr.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/lenyr.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -488,7 +488,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/lyrin.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/lyrin.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -511,7 +511,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/maelith.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/maelith.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -532,7 +532,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/mavonyx.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/mavonyx.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -557,7 +557,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/noctyx.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/noctyx.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -580,7 +580,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/novus.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/novus.js",
       "enabled": true,
       "formats": [
         "mkv",
@@ -602,7 +602,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/nyxora.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/nyxora.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -626,7 +626,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/onyxia.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/onyxia.js",
       "enabled": true,
       "formats": [
         "m3u8"
@@ -648,7 +648,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/ozeris.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/ozeris.js",
       "enabled": true,
       "formats": [
         "m3u8"
@@ -669,7 +669,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/phraxis.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/phraxis.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -699,7 +699,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/praxiel.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/praxiel.js",
       "enabled": true,
       "formats": [
         "mkv"
@@ -721,7 +721,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/pynvix.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/pynvix.js",
       "enabled": true,
       "formats": [
         "m3u8",
@@ -749,7 +749,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/qorva.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/qorva.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -772,7 +772,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/quinox.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/quinox.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -798,7 +798,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/qyrvaen.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/qyrvaen.js",
       "enabled": true,
       "formats": [
         "mkv",
@@ -821,7 +821,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/rylvane.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/rylvane.js",
       "enabled": true,
       "formats": [
         "m3u8"
@@ -842,7 +842,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/rynara.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/rynara.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -863,7 +863,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/solunix.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/solunix.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -887,7 +887,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/soryn.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/soryn.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -910,7 +910,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/svartok.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/svartok.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -943,7 +943,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/sylphera.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/sylphera.js",
       "enabled": true,
       "formats": [
         "m3u8",
@@ -965,7 +965,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/tyvrel.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/tyvrel.js",
       "enabled": true,
       "formats": [
         "m3u8",
@@ -987,7 +987,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/vitrix.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/vitrix.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -1010,7 +1010,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/vornix.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/vornix.js",
       "enabled": true,
       "formats": [
         "m3u8",
@@ -1037,7 +1037,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/vyranel.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/vyranel.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -1059,7 +1059,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/waelum.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/waelum.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -1082,7 +1082,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/wrenok.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/wrenok.js",
       "enabled": true,
       "formats": [
         "m3u8",
@@ -1104,7 +1104,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/xandril.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/xandril.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -1128,7 +1128,7 @@
         "tv",
         "series"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/xylos.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/xylos.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -1152,7 +1152,7 @@
         "tv",
         "series"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/zevran.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/zevran.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -1174,7 +1174,7 @@
         "movie",
         "tv"
       ],
-      "filename": "https://eclipsia.codeberg.page/nuvio-plugin/providers/zyrvael.js",
+      "filename": "https://raw.githubusercontent.com/st3ix/Nuvio-pvt-plugin-setup/main/providers/zyrvael.js",
       "enabled": true,
       "formats": [
         "m3u8",
